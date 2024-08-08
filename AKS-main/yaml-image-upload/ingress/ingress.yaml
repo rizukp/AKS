@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: aks-image-ingress
+  namespace: image
+  annotations:
+    kubernetes.io/ingress.class: azure/application-gateway
+spec:
+  rules:
+  - host: aks.southindia.cloudapp.azure.com 
+    http:
+      paths:
+      - path: /upload
+        pathType: Prefix
+        backend:
+          service:
+            name: aks-image-svc
+            port:
+              number: 80

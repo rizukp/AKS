@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmfxFdmZPko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-rizwanri\\source\\repos\\Cloud%20adoption%20framework%20POC\\AKS-main\\ImageUpload\\ImageUpload\\ImageUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-rizwanri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\v-rizwanri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\v-rizwanri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\v-rizwanri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\v-rizwanri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

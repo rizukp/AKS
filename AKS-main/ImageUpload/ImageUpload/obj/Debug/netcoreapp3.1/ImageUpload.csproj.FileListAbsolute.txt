@@ -1,0 +1,6 @@
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.AssemblyInfoInputs.cache
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.AssemblyInfo.cs
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v-rizwanri\source\repos\Cloud%20adoption%20framework%20POC\AKS-main\ImageUpload\ImageUpload\obj\Debug\netcoreapp3.1\ImageUpload.sourcelink.json
