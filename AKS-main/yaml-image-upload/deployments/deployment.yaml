@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: aks-image-container
-        image: prodpoc.azurecr.io/aks-main:199890-AKS-Main
+        image: prodrmspoc.azurecr.io/aks-main:199890-AKS-Main
         resources:
           limits:
             memory: 512Mi
